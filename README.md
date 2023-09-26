@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite  https://dss-lab.netlify.app/
 
 для запуска
 
