@@ -1,3 +1,4 @@
+
 function App() {
   let input = 'Hollow World'
   const encode = input => [...input]
